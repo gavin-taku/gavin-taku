@@ -1,66 +1,88 @@
-<h1>Hey, I'm Gavin! 👋 <br/><a href="https://github.com/gavin-taku">Data Scientist</a>, <a href="https://www.linkedin.com/in/gavin-gapara">Cybersecurity Enthusiast</a>, <a href="#">Tech Explorer</a></h1>
-
-<h2>💡 About Me</h2>
-
-I’m Gavin Gapara, a Data Science graduate student at Pace University and an IT enthusiast who enjoys turning tech puzzles into practical solutions. Whether it’s building a secure infrastructure, digging through data for insights, or automating home systems, I bring curiosity and a drive to make things *work well and look good doing it.*
-
-Before coming to the U.S., I earned my BTech in Information Technology at the Harare Institute of Technology and sharpened my skills through real-world roles in cybersecurity, IT infrastructure, and software development. My hands-on experience ranges from microwave network installations to building smart homes and analyzing massive datasets.
+<h1 align="center">Hey, I'm Gavin! 👋<br/>
+<a href="https://github.com/gavin-taku">🧠 Data Scientist</a> • 
+<a href="https://www.linkedin.com/in/gavin-gapara">🔐 Cybersecurity Enthusiast</a> • 
+<a href="#">🚀 Tech Explorer</a>
+</h1>
 
 ---
 
-<h2>🧠 What I Do</h2>
+## 💡 About Me
 
-- 🔐 Protect data & systems with strong cybersecurity foundations (Huawei Certified + Microsoft AI Badge)
-- 📊 Extract actionable insights from complex datasets using Python, Pandas, Scikit-learn & SQL
-- 🛠️ Build and maintain secure network infrastructure (shoutout to my time at NYTEL & TSL)
-- 🧰 Solve problems with code: Python, JavaScript, C#, React, PowerShell—you name it
-- 🌍 Educate and empower: Passionate about teaching and sharing knowledge, both in the classroom and beyond
+Hi there! I'm **Gavin Gapara**, a Data Science graduate student at **Pace University** and an all-round IT enthusiast. I love transforming complex tech puzzles into clean, efficient solutions.
 
----
+Before my studies in the U.S., I earned my **BTech in Information Technology** from the **Harare Institute of Technology**, and gained hands-on experience in:
 
-<h2>👨‍💻 Projects I'm Proud Of</h2>
+- 🛰️ Microwave network installation (NYTEL)
+- 🛠️ IT infrastructure & support (TSL)
+- 🧠 Machine learning & analytics
+- 🏠 Smart system automation
 
-- 💡 <b>Smart Home System – HIT 400 Capstone</b>  
-  A full-stack IoT-based home automation system with remote controls for lights, climate, and security.  
-  *Tech Stack:* Arduino, Python, Firebase, React
-
-- 🔐 <b>Cybersecurity Monitoring Toolkit</b>  
-  Developed tools for real-time system monitoring and alerting using PowerShell and EventLog analysis.
-
-- 🧠 <b>Bank Marketing Data Analysis (Spring '25)</b>  
-  Applied six machine learning models to evaluate customer conversion rates in bank marketing campaigns.  
-  *Tech Stack:* Scikit-learn, Pandas, Jupyter, matplotlib
-
-- 📦 <b>Inventory Management Web App (CommuTech)</b>  
-  Built a sleek frontend for tracking assets and generating live reports.  
-  *Tech Stack:* React, Bootstrap, REST APIs
+I’m curious by nature, always exploring new ways to make tech *work well and look good doing it*.
 
 ---
 
-<h2>🎯 Current Goals</h2>
+## 🧠 What I Do
 
-- ✅ Get certified in AWS or Azure
-- 🎓 Deepen my knowledge in AI & advanced statistics
-- 🌍 Connect with other tech enthusiasts & collaborate on meaningful open-source projects
-
----
-
-<h2>📚 Technical Toolbox</h2>
-
-- Languages: Python, JavaScript, SQL, PowerShell, C#
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn
-- Tools: Git, Jupyter, React, Firebase, Docker
-- Platforms: Windows Server, Linux, Azure, Firebase
-
----
-<br/>
-
-📫 Or drop me an email: [takudzwagavin@yahoo.com](mailto:takudzwagavin@yahoo.com)  
-📍 Currently based in: New York City  
-🎮 Fun fact: I’m a Formula 1 fanatic, and my favorite team is Mercedes-AMG Petronas (Team LH forever 🙌)
+- 🔐 Secure systems & networks with a strong cybersecurity foundation  
+  *(Huawei Certified • Microsoft AI Badge)*  
+- 📊 Analyze data & uncover insights using Python, Pandas, Scikit-learn & SQL  
+- 🛠️ Build robust infrastructure with Windows Server, PowerShell, and network tools  
+- 🧰 Code smart solutions in Python, JavaScript, C#, React, PowerShell  
+- 📚 Teach & mentor—helping others grow in tech is one of my favorite things  
 
 ---
 
-<!-- Link Section -->
-[linkedin]: https://www.linkedin.com/in/yourprofile  
-[email]: mailto:takudzwagavin@yahoo.com
+## 👨‍💻 Projects I'm Proud Of
+
+- 💡 **Smart Home System – HIT 400 Capstone**  
+  Full-stack IoT-based automation with remote control of lighting, climate & security  
+  🛠 *Tech:* Arduino • Python • Firebase • React
+
+- 🔐 **Cybersecurity Monitoring Toolkit**  
+  Real-time PowerShell-based system log monitoring & alerting  
+  🛠 *Tech:* PowerShell • Windows Event Viewer
+
+- 🧠 **Bank Marketing Data Analysis (Spring '25)**  
+  Applied 6 ML models to predict marketing campaign success  
+  🛠 *Tech:* Scikit-learn • Pandas • matplotlib • Jupyter
+
+- 📦 **Inventory Management Web App (CommuTech)**  
+  Built a responsive frontend for asset tracking and live reporting  
+  🛠 *Tech:* React • Bootstrap • REST APIs
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Earn AWS or Azure certification  
+- 🧠 Sharpen skills in AI & statistical modeling  
+- 🌍 Collaborate on open-source tech that matters  
+
+---
+
+## 🧰 Technical Toolbox
+
+**Languages:**  
+🐍 Python • ⚡ JavaScript • 🧾 SQL • 💻 C# • ⚙️ PowerShell  
+
+**Libraries & Frameworks:**  
+📦 Pandas • 📊 Matplotlib • 🔍 Scikit-learn • 📐 NumPy  
+
+**Tools & Platforms:**  
+🧠 Jupyter • 🔧 Git • ⚛️ React • ☁️ Firebase • 🐳 Docker • 🖥️ Windows Server • 🐧 Linux • ☁️ Azure
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [takudzwagavin@yahoo.com](mailto:takudzwagavin@yahoo.com)  
+- 🗽 Based in: New York City  
+- 🎮 Fun Fact: I’m a diehard Formula 1 fan—#TeamLH and Mercedes-AMG Petronas all the way! 🏎️🔥
+
+---
+
+<!-- Social badges -->
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gavin-gapara)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/gavin-taku)
+-->
