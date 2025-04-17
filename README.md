@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gavin.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Gavin Gapara profile picture"/>
+  <img src="Gavin.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Gavin.jpg"/>
 </p>
 
 <h1 align="center">Hey, I'm Gavin! 👋<br/>
