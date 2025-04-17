@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/gavin-taku/gavin-taku/main/Gavin.jpg" alt="Gavin Gapara profile picture" style="border-radius: 50%; object-fit: cover;" width="150" height="150">
 <p align="center">
   <img src="Gavin.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Gavin Gapara profile picture"/>
 </p>
